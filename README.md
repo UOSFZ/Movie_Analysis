@@ -5,3 +5,5 @@ As a movie lover, the idea of starting this project was based on some frequently
 So, this is a movie data processing and visualization project based on Spark and Python where the dataset is open source and accessible for everyone. The initial design idea of this application is to use Spark as my data analysis engine and the use various functions including different accessible API and packages for achieving the goal of final data analysis. Since the dataset I used in the project is composed of multiple data sets, the unified solution Spark provides is perfectly useful for my project. 
 
 In addition, after the data preprocess, I will try to demonstrate the data in a visible and readable way including but not limited to table, bar chart and pie chart. All the works are done on the environment of Python3.6 and codes are written on the Anaconda Jupyter Notebook.
+
+P.S. The three used datasets for this project are uploaded as one ZIP file due to the reason that the those orgin files size is over 25mb.
